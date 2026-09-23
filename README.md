@@ -4,6 +4,13 @@ An AI-powered voice agent for **business loan qualification**, built with [Vapi]
 
 ---
 
+## DEMO VIDEO
+
+
+[![Watch the Video](https://github.com/user-attachments/assets/2d022175-e261-469c-b403-326d98811a26)](https://jam.dev/c/7c0c72ca-bb15-4630-b1cc-403222e1c95c)
+
+
+
 ## ✨ Features
 
 - **Automated Lead Qualification** — Collects revenue, time in business, credit score, and desired loan amount through natural voice conversation
